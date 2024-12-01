@@ -24,10 +24,10 @@ MoveMate is a sophisticated software application developed using Python that int
 ****Getting Started:****
 To get started with MoveMate, you need a computer with Python 3.x installed, a working webcam (either built-in or external), and the required Python packages (listed in the `requirements.txt` file). Installation is straightforward, involving cloning the repository and installing the dependencies.
 
-****Contributing:****
 ***Contributing:***
 MoveMate is an open-source project, and contributions from the community are welcome. You can contribute by forking the repository, creating feature branches, and submitting pull requests to enhance the software.
 
 In conclusion, MoveMate represents a groundbreaking approach to computer interaction, offering a gesture-controlled virtual mouse that has the potential to revolutionize how we navigate and interact with computers, particularly in healthcare and accessibility contexts. Its versatility and accessibility make it a promising tool for a variety of applications and users.
+
 ***conclusion:***
 MoveMate represents a groundbreaking approach to computer interaction, offering a gesture-controlled virtual mouse that has the potential to revolutionize how we navigate and interact with computers, particularly in healthcare and accessibility contexts. Its versatility and accessibility make it a promising tool for a variety of applications and users.
