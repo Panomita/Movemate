@@ -12,8 +12,6 @@ MoveMate is a sophisticated software application developed using Python that int
 4. **Cross-Platform Compatibility**: MoveMate is designed to work seamlessly across multiple platforms, including Windows, macOS, and Linux, making it accessible to a wide range of users.
 
 
-
-****Applications:****
 ***Applications:***
 - **Healthcare**: MoveMate holds immense potential in healthcare settings, where it can be utilized for touchless interaction with medical equipment, such as radiological displays, to reduce the risk of contamination. It can also be employed by healthcare providers for hands-free access to patient records and other digital healthcare systems, promoting a hygienic and efficient workflow.
 
