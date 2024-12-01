@@ -8,6 +8,8 @@ MoveMate is a sophisticated software application developed using Python that int
 2. **Virtual Mouse Cursor**: Once it detects these gestures, MoveMate seamlessly translates them into precise mouse cursor movements on your computer screen. This means you can control your computer just as you would with a traditional mouse, but without the need for any physical hardware.
 @@ -10,7 +10,7 @@ MoveMate is a sophisticated software application developed using Python that int
 
+3. **User-Friendly Interface**: MoveMate features a user-friendly interface that simplifies the calibration process. Users can easily configure their preferences and customize gesture controls according to their specific needs and preferences.
+
 4. **Cross-Platform Compatibility**: MoveMate is designed to work seamlessly across multiple platforms, including Windows, macOS, and Linux, making it accessible to a wide range of users.
 
 ****Applications:****
