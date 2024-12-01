@@ -29,5 +29,5 @@ MoveMate is an open-source project, and contributions from the community are wel
 
 In conclusion, MoveMate represents a groundbreaking approach to computer interaction, offering a gesture-controlled virtual mouse that has the potential to revolutionize how we navigate and interact with computers, particularly in healthcare and accessibility contexts. Its versatility and accessibility make it a promising tool for a variety of applications and users.
 
-***conclusion:***
+***Conclusion:***
 MoveMate represents a groundbreaking approach to computer interaction, offering a gesture-controlled virtual mouse that has the potential to revolutionize how we navigate and interact with computers, particularly in healthcare and accessibility contexts. Its versatility and accessibility make it a promising tool for a variety of applications and users.
